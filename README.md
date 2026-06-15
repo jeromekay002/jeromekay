@@ -46,6 +46,12 @@ A product-focused business website designed to showcase JAMP Peanut Butter produ
 
 The platform serves as the company's online presence, presenting product information, business details, and customer engagement channels in a clean and responsive interface.
 
+## Business Goal
+
+The website was designed to increase online visibility for JAMP Peanut Butter while providing customers with a simple and accessible purchasing channel through WhatsApp Business.
+
+The focus was on creating a lightweight, mobile-friendly experience that supports product discovery and direct customer engagement.
+
 #### Key Features
 
 * Product catalog showcasing available peanut butter products
