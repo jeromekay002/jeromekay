@@ -42,19 +42,45 @@ PHP • MySQL • JavaScript • Bootstrap • jQuery
 
 ### 🥜 JAMP Peanut Butter Business Website
 
-A business-focused website showcasing products, company information, ordering processes, and customer engagement.
+A product-focused business website designed to showcase JAMP Peanut Butter products, strengthen brand visibility, and provide customers with an easy way to explore offerings and place inquiries.
 
-Features:
+The platform serves as the company's online presence, presenting product information, business details, and customer engagement channels in a clean and responsive interface.
 
-* Product catalog
-* Brand presentation
-* Ordering information
-* Responsive design
-* Customer contact channels
+#### Key Features
 
-Tech Stack:
+* Product catalog showcasing available peanut butter products
+* Brand and company information
+* Responsive design for mobile and desktop devices
+* Product detail sections
+* Direct customer communication through WhatsApp Business
+* Contact and inquiry channels
+* User-friendly navigation and browsing experience
 
-HTML • CSS • JavaScript • PHP • MySQL
+#### Customer Ordering Flow
+
+1. Customer browses available products.
+2. Customer selects a product of interest.
+3. Clicking the "Buy Now" button redirects the user to WhatsApp Business.
+4. Customer can immediately communicate with the business regarding pricing, availability, delivery, and orders.
+
+This approach provides a simple ordering experience while supporting direct customer interaction and personalized service.
+
+#### Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+
+#### Future Improvements
+
+* Shopping cart functionality
+* Online checkout system
+* Customer accounts
+* Order tracking
+* Payment gateway integration
+* Inventory synchronization
+* Backend API integration
+* Database-driven product management
 
 ---
 
